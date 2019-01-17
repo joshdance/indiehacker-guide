@@ -13,7 +13,10 @@ Help others! Answer questions, provide advice/feedback. Community is shared expe
 Most people are trying their best. We want to be honest, but positive. We don't want this community to turn into HackerNews 😉
 
 # Always include a link
-This is the internet. We link things because that allows others to more easily find it. Talking about a book? Link it. A website? Link it.
+This is the internet. We link things because that allows others to more easily find it, learn more, contribute. Talking about a book? Link it. A website? Link it. (See next point about mentions)
+
+# Use tags/mentions
+If you are talking about someone's product or how awesome someone is, tag them. If there's someone specific you would like feedback/advice from, tag them in your post so they can see it. But don't expect them to reply.
 
 # Tell us what you already tried
 If you don't want everyone to give ideas and recommendations that you have already tried, make it clear what you have done, what research you have done, what you tried. 
@@ -27,9 +30,6 @@ Try and be very specific with your question.  Asking for feedback is great but q
 
 # Use the search function.
 A lot of questions have been asked already and repetition fatigue is a real problem on IH. Don't just use the site search, also just Google it. If you hope someone takes time to read and answer, take time to google it.
-
-# Use tags/mentions
-If you are talking about someone's product or how awesome someone is, tag them. If there's someone specific you would like feedback/advice from, tag them in your post so they can see it. But don't expect them to reply.
 
 # Official FAQ
 https://www.indiehackers.com/about
