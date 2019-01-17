@@ -30,3 +30,6 @@ A lot of questions have been asked already and repetition fatigue is a real prob
 
 # Use tags/mentions
 If you are talking about someone's product or how awesome someone is, tag them. If there's someone specific you would like feedback/advice from, tag them in your post so they can see it. But don't expect them to reply.
+
+## Ideas for contribution
+Document Indiehackers features. Similar to https://github.com/minimaxir/hacker-news-undocumented
