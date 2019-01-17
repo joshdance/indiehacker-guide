@@ -1,6 +1,6 @@
 ## Unofficial guide to Indiehackers.com
 
-Saw a recent IH post from a new member asking for advice about what they should know as a new Indiehacker.
+[Saw a recent IH post from a new member asking for advice](https://www.indiehackers.com/forum/as-a-new-member-on-indie-hackers-what-are-some-things-i-should-know-f870ed967a) about what they should know as a new Indiehacker.
 The thread was useful so I took some of the good ideas and my own and wrote them up.
 
 # Provide value
