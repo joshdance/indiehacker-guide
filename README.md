@@ -31,6 +31,9 @@ Try and be very specific with your question.  Asking for feedback is great but q
 # Use the search function.
 A lot of questions have been asked already and repetition fatigue is a real problem on IH. Don't just use the site search, also just Google it. If you hope someone takes time to read and answer, take time to google it.
 
+# Remember to Vote
+If you come across a good question, but do not know the answer yourself, remember to click vote. Voting helps ensure posts are seen by more people and can likely lead to a great response.
+
 # Official FAQ
 https://www.indiehackers.com/about
 
